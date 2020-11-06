@@ -64,10 +64,10 @@ And during the exam I suggest to do:
 * read the question once.
 * re-read the question pausing at each interval (comma or dot), and check if that is a customer pain or a requirement.
 * at every pause think about a technology you would use or that is involved.
-* once re-read the question pausing, try to answer without reading the possible questions.
-* check the questions, and find the ones that came up in your mind at first.
+* once re-read the question pausing, try to answer without reading the available answers.
+* check the available answers, and find the ones that came up in your mind at first.
 * if in doubt, go for exclusion.
-* if still in doubt, stick with your best answer and mark it for review - you might find the answer following along with the other questions.
+* if still in doubt, stick with your best answer and mark it for review - you might find the answer following along with the other questions in the exam.
 
 It's a 2 hours long exam, with 50 questions, and there is no break.
 
